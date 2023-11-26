@@ -1,0 +1,31 @@
+body {
+   color: #929292;
+}
+
+.navbar {
+   background-color: #e4e4e4;
+}
+
+.text-colored {
+   color: red;
+}
+
+.social-links li {
+   list-style: none;
+   display: inline;
+}
+
+.social-links a {
+   text-decoration: none;
+}
+
+.btn {
+   color: blue;
+}
+
+@media (max-width: 767px) {
+   .carousel-item img {
+       height: 400px;
+   }
+   
+}
